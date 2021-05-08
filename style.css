@@ -1,0 +1,30 @@
+body
+{
+    margin: 0;
+    text-align: center;
+    padding-bottom: 10%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 10%;
+    background: linear-gradient(lightcyan, lightcyan, greenyellow, greenyellow, lightcyan, lightcyan);
+}
+#jr_quiz
+{
+    border-style: ridge;
+    border-width: medium;
+    border-color: chartreuse;
+    text-align: center;
+    text-shadow: 50%;
+    font-style: oblique;
+    font-size: 150px;
+    font-family: cursive;
+    color: darkmagenta;
+}
+#na_me
+{
+    text-align: center;
+    font-size: 30px;
+    font-family: monospace;
+}
+
+
